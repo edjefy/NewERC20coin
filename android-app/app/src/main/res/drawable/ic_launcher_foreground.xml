@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#DA7756"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+    <!-- Claude-style sparkle/star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34L57.5,47.5L71,51L57.5,54.5L54,68L50.5,54.5L37,51L50.5,47.5Z"/>
+    <!-- Glasses/sunglasses shape representing Ray-Bans -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M35,48 Q35,42 41,42 L48,42 Q52,42 52,48 Q52,54 46,54 L41,54 Q35,54 35,48 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M56,48 Q56,42 62,42 L69,42 Q73,42 73,48 Q73,54 67,54 L62,54 Q56,54 56,48 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M52,46 L56,46"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"/>
+</vector>

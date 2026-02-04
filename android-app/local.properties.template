@@ -1,0 +1,11 @@
+# Local configuration template
+# Copy this file to local.properties and fill in your values
+
+# Path to your Android SDK (required)
+# macOS example: sdk.dir=/Users/username/Library/Android/sdk
+# Linux example: sdk.dir=/home/username/Android/Sdk
+# Windows example: sdk.dir=C\:\\Users\\username\\AppData\\Local\\Android\\Sdk
+sdk.dir=
+
+# Optional: NDK location if needed
+# ndk.dir=
