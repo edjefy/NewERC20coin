@@ -1,0 +1,8 @@
+#!/bin/sh
+# Gradle wrapper stub - will be replaced by Android Studio
+
+echo "Gradle wrapper not initialized yet."
+echo "Open this project in Android Studio to auto-configure."
+echo ""
+echo "Or run: gradle wrapper --gradle-version 8.4"
+exit 1
