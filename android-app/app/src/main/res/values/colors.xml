@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Claude brand colors -->
+    <color name="claude_orange">#DA7756</color>
+    <color name="claude_orange_dark">#B85C3D</color>
+    <color name="claude_cream">#FCF4E8</color>
+    <color name="claude_dark">#1A1A1A</color>
+
+    <!-- Primary colors -->
+    <color name="primary">#DA7756</color>
+    <color name="primary_variant">#B85C3D</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary colors -->
+    <color name="secondary">#8B7355</color>
+    <color name="secondary_variant">#5C4A3A</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Background colors -->
+    <color name="background">#FCF4E8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_background">#1A1A1A</color>
+    <color name="on_surface">#1A1A1A</color>
+
+    <!-- Error colors -->
+    <color name="error">#BA1A1A</color>
+    <color name="on_error">#FFFFFF</color>
+</resources>

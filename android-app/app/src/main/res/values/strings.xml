@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claude Ray-Bans</string>
+    <string name="settings">Instellingen</string>
+    <string name="api_key">API Key</string>
+    <string name="api_key_hint">sk-ant-...</string>
+    <string name="save">Opslaan</string>
+    <string name="cancel">Annuleren</string>
+    <string name="listening">Luisteren...</string>
+    <string name="processing">Verwerken...</string>
+    <string name="speaking">Spreken...</string>
+    <string name="ready">Klaar om te luisteren</string>
+    <string name="tap_to_talk">Tik op je Ray-Bans of druk op de knop om te praten</string>
+    <string name="repeat">Herhaal</string>
+    <string name="new_conversation">Nieuw gesprek</string>
+    <string name="claude_says">Claude zegt:</string>
+    <string name="notification_title">Claude Assistant</string>
+    <string name="notification_text">Tik op je Ray-Bans om te praten</string>
+</resources>
